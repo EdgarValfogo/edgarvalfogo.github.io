@@ -2,7 +2,7 @@
 layout: post
 title:  "Angular #2 - O Angular CLI"
 date:   2020-11-05 08:20:26 -0300
-categories: angular desenvolvimento command line interface cli frameworks
+categories: angular desenvolvimento cli frameworks
 ---
 
 Vamos falar desse cara incrível, o Angular CLI, salvador de muitas vidas.
