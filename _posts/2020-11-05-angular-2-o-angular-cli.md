@@ -5,7 +5,7 @@ date:   2020-11-05 08:20:26 -0300
 categories: angular desenvolvimento command line interface cli frameworks
 ---
 
-Vamos falar desse cara incrível, o Angular CLI.
+Vamos falar desse cara incrível, o Angular CLI, salvador de muitas vidas.
 
 Antes dessas frameworks, como Angular, React, Vue e outras parecidas ficarem famosas e cheias de funcionalidades, você tinha que configurar tudo á mão. Você tinha que pensar em:
 
